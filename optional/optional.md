@@ -40,6 +40,7 @@ C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA |4
 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2 |CB:3C:CB:B7:60:31:E5:E0:13:8F:8D:D3:9A:23:F9:DE:47:FF:C3:5E:43:C1:14:4C:EA:27:D4:6A:5A:B1:CB:5F
 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G3 |31:AD:66:48:F8:10:41:38:C7:38:F3:9E:A4:32:01:33:39:3E:3A:18:CC:02:29:6E:F9:7C:2A:C9:EF:67:31:D0
 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert High Assurance EV Root CA |74:31:E5:F4:C3:C1:CE:46:90:77:4F:0B:61:E0:54:40:88:3B:A9:A0:1E:D0:0B:A6:AB:D7:80:6E:D3:B1:18:CF
+C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Trusted Root G4 |55:2F:7B:DC:F1:A7:AF:9E:6C:E6:72:01:7F:4F:12:AB:F7:72:40:C7:8E:76:1A:C2:03:D1:D9:D2:0A:C8:99:88
 C = US, O = Google Trust Services LLC, CN = GTS Root R1 |D9:47:43:2A:BD:E7:B7:FA:90:FC:2E:6B:59:10:1B:12:80:E0:E1:C7:E4:E4:0F:A3:C6:88:7F:FF:57:A7:F4:CF
 C = US, O = Google Trust Services LLC, CN = GTS Root R2 |8D:25:CD:97:22:9D:BF:70:35:6B:DA:4E:B3:CC:73:40:31:E2:4C:F0:0F:AF:CF:D3:2D:C7:6E:B5:84:1C:7E:A8
 C = US, O = Google Trust Services LLC, CN = GTS Root R3 |34:D8:A7:3E:E2:08:D9:BC:DB:0D:95:65:20:93:4B:4E:40:E6:94:82:59:6E:8B:6F:73:C8:42:6B:01:0A:6F:48
