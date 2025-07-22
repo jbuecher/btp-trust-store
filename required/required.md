@@ -7,6 +7,5 @@ C = US, O = "DigiCert, Inc.", CN = DigiCert TLS RSA4096 Root G5 |37:1A:00:DC:05:
 C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2009 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G2 |43:DF:57:74:B0:3E:7F:EF:5F:E4:0D:93:1A:7B:ED:F1:BB:2E:6B:42:73:8C:4E:6D:38:41:10:3D:3A:A7:F3:39
 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA |43:48:A0:E9:44:4C:78:CB:26:5E:05:8D:5E:89:44:B4:D8:4F:96:62:BD:26:DB:25:7F:89:34:A4:43:C7:01:61
 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2 |CB:3C:CB:B7:60:31:E5:E0:13:8F:8D:D3:9A:23:F9:DE:47:FF:C3:5E:43:C1:14:4C:EA:27:D4:6A:5A:B1:CB:5F
-C = US, O = Internet Security Research Group, CN = ISRG Root X1 |96:BC:EC:06:26:49:76:F3:74:60:77:9A:CF:28:C5:A7:CF:E8:A3:C0:AA:E1:1A:8F:FC:EE:05:C0:BD:DF:08:C6
 C = US, O = Internet Security Research Group, CN = ISRG Root X2 |69:72:9B:8E:15:A8:6E:FC:17:7A:57:AF:B7:17:1D:FC:64:AD:D2:8C:2F:CA:8C:F1:50:7E:34:45:3C:CB:14:70
 CN = Julian Root CA, C = DE, ST = Walldorf, L = Walldorf, O = BTPEX |4C:1B:8C:D6:49:CD:6A:C2:31:E6:8C:24:A3:B8:75:92:FA:D7:8E:F9:8B:F0:50:0E:46:B1:0C:40:E1:EE:DF:3A
