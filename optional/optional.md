@@ -1,5 +1,6 @@
 Subject Name|SHA256 Fingerprint
 ------------|------------------
+C = BE, O = GlobalSign nv-sa, CN = GlobalSign Root R46 |4F:A3:12:6D:8D:3A:11:D1:C4:85:5A:4F:80:7C:BA:D6:CF:91:9D:3A:5A:88:B0:3B:EA:2C:63:72:D9:3C:40:C9
 C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 1 G3 |8A:86:6F:D1:B2:76:B5:7E:57:8E:92:1C:65:82:8A:2B:ED:58:E9:F2:F2:88:05:41:34:B7:F1:F4:BF:C9:CC:74
 C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2 G3 |8F:E4:FB:0A:F9:3A:4D:0D:67:DB:0B:EB:B2:3E:37:C7:1B:F3:25:DC:BC:DD:24:0E:A0:4D:AF:58:B4:7E:18:40
 C = BM, O = QuoVadis Limited, CN = QuoVadis Root CA 2 |85:A0:DD:7D:D7:20:AD:B7:FF:05:F8:3D:54:2B:20:9D:C7:FF:45:28:F7:D6:77:B1:83:89:FE:A5:E5:C4:9E:86
